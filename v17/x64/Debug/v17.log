@@ -1,0 +1,3 @@
+﻿  v17.cpp
+D:\bntu\v17\v17.cpp(6,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  v17.vcxproj -> D:\bntu\v17\x64\Debug\v17.exe
